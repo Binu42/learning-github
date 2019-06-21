@@ -1,1 +1,2 @@
-This is the first file of master branch.
+
+Improved version of file1 in new master.
